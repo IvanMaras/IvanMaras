@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ivan Maras
+- 👀 I’m interested in developing my skills
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me: by mail ivan.maras@gmail.com
